@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Welcome to the [TODO: Add project name]" Url="html/a87c74f1-f189-4c5d-a203-424748fb5793.htm" />
+  <HelpTOCNode Id="3cd53f74-c930-43e2-9fd0-d0ad11686d0c" Title="Version History" Url="html/646663b7-3563-4aa7-b24f-0c0466fd98ab.htm">
+    <HelpTOCNode Title="Version 1.0.0.0" Url="html/912800a4-eaca-4cb4-8bba-3e2f563df6ce.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="278968f4-688b-45e0-bd88-22c4a77437ff" Title="SampleApp" Url="html/0a9a734f-33e8-98db-42fa-ce5514041970.htm">
+    <HelpTOCNode Id="4ab4dc54-871c-4793-be27-ee3e69f18464" Title="IMyInterface Interface" Url="html/b418d15b-67af-d1c4-1de6-fa49083d8449.htm">
+      <HelpTOCNode Id="db5e8f09-fece-4b50-b631-7f5ce9f201b3" Title="IMyInterface Properties" Url="html/df47499b-d286-2e98-6ddf-bdc5e2c9ae2a.htm">
+        <HelpTOCNode Title="GitHubString Property " Url="html/7829203f-6506-e1de-f6da-c39fc9608fd8.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

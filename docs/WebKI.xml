@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="GitHubString property" Url="html/7829203f-6506-e1de-f6da-c39fc9608fd8.htm" />
+  <HelpKINode Title="IMyInterface interface">
+    <HelpKINode Title="IMyInterface Interface" Url="html/b418d15b-67af-d1c4-1de6-fa49083d8449.htm" />
+    <HelpKINode Title="properties" Url="html/df47499b-d286-2e98-6ddf-bdc5e2c9ae2a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IMyInterface.GitHubString property" Url="html/7829203f-6506-e1de-f6da-c39fc9608fd8.htm" />
+  <HelpKINode Title="SampleApp namespace" Url="html/0a9a734f-33e8-98db-42fa-ce5514041970.htm" />
+  <HelpKINode Title="SampleApp.IMyInterface interface" Url="html/b418d15b-67af-d1c4-1de6-fa49083d8449.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/912800a4-eaca-4cb4-8bba-3e2f563df6ce.htm" />
+    <HelpKINode Title="history" Url="html/646663b7-3563-4aa7-b24f-0c0466fd98ab.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/a87c74f1-f189-4c5d-a203-424748fb5793.htm" />
+</HelpKI>
